@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "easyproduction:block/conveyor_belt",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "easyproduction:block/conveyor_belt"
+    },
+    "facing=south": {
+      "model": "easyproduction:block/conveyor_belt",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "easyproduction:block/conveyor_belt",
+      "y": 270
+    }
+  }
+}

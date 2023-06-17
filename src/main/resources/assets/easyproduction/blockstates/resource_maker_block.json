@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "easyproduction:block/resource_maker",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "easyproduction:block/resource_maker"
+    },
+    "facing=south": {
+      "model": "easyproduction:block/resource_maker",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "easyproduction:block/resource_maker",
+      "y": 270
+    }
+  }
+}
